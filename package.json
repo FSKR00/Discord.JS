@@ -1,0 +1,17 @@
+{
+  "name": "ovo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "forest": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "datetime": "0.0.3",
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1",
+    "sqlite3": "^5.0.2"
+  }
+}
